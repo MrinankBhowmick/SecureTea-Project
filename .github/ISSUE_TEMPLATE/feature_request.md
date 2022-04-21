@@ -2,7 +2,6 @@
 name: "🌟 Feature request"
 description: "Suggest an idea for this project"
 Title: ''
-Labels: ''
 Assignees: ''
 
 ---
