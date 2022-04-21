@@ -1,8 +1,8 @@
 ---
-name: "🌟 Feature request"
-description: "Suggest an idea for this project"
-Title: ''
-Assignees: ''
+name: "🚀 Feature request"
+about: Suggest an idea for improving this project
+title: ''
+assignees: ''
 
 ---
 
