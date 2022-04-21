@@ -1,5 +1,5 @@
 ---
-Name: Feature request
+Name: "🌟 Feature request"
 About: Suggest an idea for this project
 Title: ''
 Labels: ''
